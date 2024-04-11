@@ -1,4 +1,4 @@
-Group project for ESIEE Paris 2023 - Jury's Finalist @ the "jour des projets" exhibition.
+Group project for ESIEE Paris - Jury's Finalist @ the "jour des projets" exhibition of June 2023 for the « Coup de Cœur du Public » category.
 
 BOGDANOVIC William - 
 TRABBIA Joffrey - 
