@@ -1,8 +1,8 @@
 Group project for ESIEE Paris 2023 - Jury's Finalist @ the "jour des projets" exhibition.
 
-BOGDANOVIC William
-TRABBIA Joffrey
-TRAVERS William
+BOGDANOVIC William - 
+TRABBIA Joffrey - 
+TRAVERS William - 
 SUN Cedric
 
 # Game menu
