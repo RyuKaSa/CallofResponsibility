@@ -3,7 +3,7 @@ Group project for ESIEE Paris 2023 - Finalist of best proejct at the "jour des p
 # Game menu
 ![MenuGIF](git_footage/Menu.gif)
 -------------------------------------
-#Gameplay
+# Gameplay
 ![MenuGIF](git_footage/gameplay-v1.gif)
 ![MenuGIF](git_footage/gameplay-v2.gif)
 ![MenuGIF](git_footage/gameplay-v3.gif)
