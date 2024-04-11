@@ -1,4 +1,9 @@
-Group project for ESIEE Paris 2023 - Finalist of best proejct at the "jour des projets" fare
+Group project for ESIEE Paris 2023 - Jury's Finalist @ the "jour des projets" exhibition.
+
+BOGDANOVIC William
+TRABBIA Joffrey
+TRAVERS William
+SUN Cedric
 
 # Game menu
 ![MenuGIF](git_footage/Menu.gif)
